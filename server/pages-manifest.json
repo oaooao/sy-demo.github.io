@@ -1,0 +1,19 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/1.0": "pages/1.0.html",
+  "/2.0 copy": "pages/2.0 copy.html",
+  "/2.0": "pages/2.0.html",
+  "/api/hello": "pages/api/hello.js",
+  "/components/box": "pages/components/box.html",
+  "/components/layout": "pages/components/layout.html",
+  "/components/logo": "pages/components/logo.html",
+  "/components/slider": "pages/components/slider.html",
+  "/components/use-animation-frame": "pages/components/use-animation-frame.html",
+  "/index copy": "pages/index copy.html",
+  "/": "pages/index.html",
+  "/signup": "pages/signup.html",
+  "/_error": "pages/_error.js",
+  "/utils/size-observer": "pages/utils/size-observer.html",
+  "/404": "pages/404.html"
+}
